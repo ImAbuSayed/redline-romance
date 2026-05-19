@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/redline-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Redline Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/redline-romance/) |
+| **Get License** | [Get a Licensing Quote for Redline Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/redline-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Teri akhiyan da nasha karda ae menu close,
+> Main takda hi rehnda haan tera nawa pose,
+> Nachdi ae tu mere kol looking so fine,
+> Mera pagal dil karda ae cross the line.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
