@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/redline-romance/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Redline Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/redline-romance/) |
+| **Get License** | [Music Rights & Licensing for Redline Romance](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/redline-romance/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `65dc75f7411f3e3690b18f02c8eba249cf4a4ca364f4c171cda4f54eaf87f36e` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
